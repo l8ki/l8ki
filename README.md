@@ -1,6 +1,6 @@
 ## Hi there 👋 Soy estudiante de universidad
 
-- 🔭 I’m currently studying RWD freeCodeCamp course since August
+- 🔭 I’m daily studying on freeCodeCamp since August
   - current streak: 31
 - 🌱 Daily learning Spanish since July
   - completed 65/90 Language Transfer Lessons
@@ -8,6 +8,6 @@
   - added Glossika Spanish Fluency 1 since August (on Day 34/104)
   - added freeCodeCamp's Spanish course since September
 - 🌌 University curriculum for semester: HTML/CSS/JS, C++, Python
-  - todo: HTML/CSS/JS continue RWD
+  - todo: HTML/CSS/JS continue RWD freeCodeCamp course
   - todo: C++ projects (priority)
   - todo: Python projects (not priority)
