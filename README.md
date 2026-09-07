@@ -1,7 +1,6 @@
 ## Hi there 👋 Soy estudiante de universidad
 
 - 🔭 I’m daily studying on freeCodeCamp since August
-  - current streak: 31
 - 🌱 Daily learning Spanish since July
   - completed 67/90 Language Transfer Lessons
   - completed 10/30 The Great Courses' Spanish 1 Video Course
